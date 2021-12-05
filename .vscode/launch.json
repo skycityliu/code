@@ -22,9 +22,9 @@
         ""
       ],
       "stopAtEntry": false,
-      "cwd": "d:/_easonDev/_allCpp/test",
+      "cwd": "d:/_easonDev/code/test",
       "environment": [],
-      "program": "d:/_easonDev/_allCpp/test/build/Debug/outDebug",
+      "program": "d:/_easonDev/code/test/build/Debug/outDebug",
       "internalConsoleOptions": "openOnSessionStart",
       "MIMode": "gdb",
       "miDebuggerPath": "D:/other/MinGW/bin/gdb.exe",
