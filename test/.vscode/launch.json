@@ -2,19 +2,6 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "name": "(gdb) Launch",
-      "type": "cppdbg",
-      "request": "launch",
-      "targetArchitecture": "x86",
-      "program": "${fileDirname}/${fileBasenameNoExtension}.exe",
-      "miDebuggerPath": "D:/other/MinGW/bin/gdb.exe",
-      "args": [],
-      "stopAtEntry": false,
-      "cwd": "${fileDirname}",
-      "externalConsole": true,
-      "preLaunchTask": "g++"
-    },
-    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
@@ -22,9 +9,9 @@
         ""
       ],
       "stopAtEntry": false,
-      "cwd": "d:/_easonDev/_allCpp/test",
+      "cwd": "d:/_easonDev/_allCpp/test/code",
       "environment": [],
-      "program": "d:/_easonDev/_allCpp/test/build/Debug/outDebug",
+      "program": "d:/_easonDev/_allCpp/test/code/build/Debug/outDebug",
       "internalConsoleOptions": "openOnSessionStart",
       "MIMode": "gdb",
       "miDebuggerPath": "D:/other/MinGW/bin/gdb.exe",
