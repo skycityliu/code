@@ -20,6 +20,10 @@
   "files.associations": {
     "ostream": "cpp",
     "algorithm": "cpp",
-    "utility": "cpp"
-  }
+    "utility": "cpp",
+    "cstring": "cpp",
+    "cmath": "cpp",
+    "iostream": "cpp"
+  },
+  "C_Cpp.errorSquiggles": "Enabled"
 }
